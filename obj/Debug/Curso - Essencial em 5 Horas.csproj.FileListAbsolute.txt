@@ -1,0 +1,8 @@
+C:\Users\Bruno\source\repos\Curso - Essencial em 5 Horas\obj\Debug\Curso - Essencial em 5 Horas.csproj.AssemblyReference.cache
+C:\Users\Bruno\source\repos\Curso - Essencial em 5 Horas\obj\Debug\Curso - Essencial em 5 Horas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bruno\source\repos\Curso - Essencial em 5 Horas\obj\Debug\Curso - Essencial em 5 Horas.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\Curso - Essencial em 5 Horas\bin\Debug\Curso - Essencial em 5 Horas.exe.config
+C:\Users\Bruno\source\repos\Curso - Essencial em 5 Horas\bin\Debug\Curso - Essencial em 5 Horas.exe
+C:\Users\Bruno\source\repos\Curso - Essencial em 5 Horas\bin\Debug\Curso - Essencial em 5 Horas.pdb
+C:\Users\Bruno\source\repos\Curso - Essencial em 5 Horas\obj\Debug\Curso - Essencial em 5 Horas.exe
+C:\Users\Bruno\source\repos\Curso - Essencial em 5 Horas\obj\Debug\Curso - Essencial em 5 Horas.pdb
